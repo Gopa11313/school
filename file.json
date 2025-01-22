@@ -1,0 +1,46 @@
+[
+    {
+        "School": "Abilene Christian University",
+        "City": "Abilene",
+        "State": "Texas",
+        "Type": "Private",
+        "Conference": "Western Athletic Conference",
+        "Division": "NCAA D1",
+        "Website": "https://acusports.com/",
+        "Men": ["Baseball", "Basketball", "Cross Country", "Football", "Golf", "Tennis", "Track & Field (Indoor & Outdoor)"],
+        "Women": ["Basketball", "Cross Country", "Golf", "Soccer", "Softball", "Tennis", "Track & Field (Indoor & Outdoor)", "Volleyball"]
+    },
+    {
+        "School": "Alabama A&M University",
+        "City": "Normal",
+        "State": "Alabama",
+        "Type": "Public",
+        "Conference": "Southwestern Athletic Conference",
+        "Division": "NCAA D1",
+        "Website": "https://aamusports.com/",
+        "Men": ["Basketball", "Cross Country", "Football", "Golf", "Tennis", "Track & Field (Indoor & Outdoor)"],
+        "Women": ["Basketball", "Bowling", "Cross Country", "Soccer", "Softball", "Tennis", "Track & Field (Indoor & Outdoor)", "Volleyball"]
+    },
+    {
+        "School": "Alabama State University",
+        "City": "Montgomery",
+        "State": "Alabama",
+        "Type": "Public",
+        "Conference": "Southwestern Athletic Conference",
+        "Division": "NCAA D1",
+        "Website": "https://bamastatesports.com/",
+        "Men": ["Baseball", "Basketball", "Cross Country", "Football", "Golf", "Tennis", "Track & Field (Indoor & Outdoor)"],
+        "Women": ["Basketball", "Bowling", "Cross Country", "Golf", "Soccer", "Softball", "Tennis", "Track & Field (Indoor & Outdoor)", "Volleyball"]
+    },
+    {
+        "School": "Alcorn State University",
+        "City": "Alcorn State",
+        "State": "Michiganssissippi",
+        "Type": "Public",
+        "Conference": "Southwestern Athletic Conference",
+        "Division": "NCAA D1",
+        "Website": "https://alcornsports.com/",
+        "Men": ["Baseball", "Basketball", "Cross Country", "Football", "Golf", "Tennis", "Track & Field"],
+        "Women": ["Basketball", "Cross Country", "Golf", "Soccer", "Softball", "Tennis", "Track & Field", "Volleyball"]
+    }
+]
