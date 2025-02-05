@@ -19460,7 +19460,17 @@
         "Conference": "Massachusetts State Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://bsubears.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19482,7 +19492,15 @@
         "Conference": "City University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://brooklyncollegeathletics.com",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -19505,7 +19523,16 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://brynathynathletics.com",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19523,7 +19550,10 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://gobrynmawr.com",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19544,7 +19574,17 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://bvuathletics.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19566,7 +19606,18 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://buffalostateathletics.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19589,7 +19640,15 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://cairnhighlanders.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19610,7 +19669,16 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://gocaltech.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19630,7 +19698,19 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://clusports.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field",
+            "Volleyball",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19653,7 +19733,15 @@
         "Conference": "Coast to Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://goslugs.com",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19675,7 +19763,18 @@
         "Conference": "Michigan Intercollegiate Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://calvinknights.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19699,7 +19798,18 @@
         "Conference": "Ohio Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://athletics.capital.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19717,7 +19827,17 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://athletics.carleton.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19742,7 +19862,10 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://carlow.edu/athletics",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19764,7 +19887,17 @@
         "Conference": "University Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://athletics.cmu.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19786,7 +19919,18 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://gopios.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19810,7 +19954,20 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://athletics.carthage.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19832,7 +19989,17 @@
         "Conference": "University Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://athletics.case.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19855,7 +20022,18 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://cuaathletics.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -19878,7 +20056,10 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://cedarcrestathletics.com",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -19901,7 +20082,16 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://gocentenary.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19920,7 +20110,18 @@
         "Conference": "Atlantic East Conference",
         "Division": "NCAA D3",
         "Website": "https://centenarycyclones.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Equestrian",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19941,7 +20142,17 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://athletics.central.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19965,7 +20176,18 @@
         "Conference": "Southern Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://centrecolonels.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -19987,7 +20209,19 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://athletics.chapman.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20007,7 +20241,15 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://gochathamcougars.com",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20026,7 +20268,17 @@
         "Conference": "University Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://athletics.uchicago.edu",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20050,7 +20302,18 @@
         "Conference": "Coast to Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://cnusports.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20070,7 +20333,15 @@
         "Conference": "City University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://ccNew Yorkathletics.com",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20090,7 +20361,18 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://cmsathletics.org",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20111,7 +20393,17 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://clarkathletics.com",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20130,7 +20422,16 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Clarkson University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20152,7 +20453,18 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://Coe College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20174,7 +20486,19 @@
         "Conference": "New England Small College Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Colby College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20194,7 +20518,15 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Colby\u2013Sawyer College Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20215,7 +20547,17 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Colorado College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20233,7 +20575,18 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Concordia College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20252,7 +20605,18 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Concordia University Chicago Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20277,7 +20641,16 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Concordia University Texas Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20298,7 +20671,18 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Concordia University Wisconsin Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20318,7 +20702,17 @@
         "Conference": "New England Small College Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Connecticut College Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20340,7 +20734,17 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Cornell College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20362,7 +20766,16 @@
         "Conference": "Collegiate Conference of the South",
         "Division": "NCAA D3",
         "Website": "https://Covenant College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20382,7 +20795,15 @@
         "Conference": "Upper Midwest Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Crown College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20401,7 +20822,18 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Curry College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20422,7 +20854,15 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Dallas Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20443,7 +20883,15 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Dean College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20462,7 +20910,18 @@
         "Conference": "MAC Freedom",
         "Division": "NCAA D3",
         "Website": "https://Delaware Valley University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20482,7 +20941,18 @@
         "Conference": "North Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Denison University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20505,7 +20975,18 @@
         "Conference": "North Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://DePauw University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20528,7 +21009,17 @@
         "Conference": "MAC Freedom",
         "Division": "NCAA D3",
         "Website": "https://DeSales University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20550,7 +21041,18 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Dickinson College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20573,7 +21075,15 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Dominican University Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20591,7 +21101,17 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://Drew University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Fencing",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20615,7 +21135,18 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://University of Dubuque Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20636,7 +21167,16 @@
         "Conference": "Heartland Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Earlham College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20656,7 +21196,16 @@
         "Conference": "American Southwest Conference",
         "Division": "NCAA D3",
         "Website": "https://East Texas Baptist University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "beach volleyball",
@@ -20678,7 +21227,16 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://Eastern Connecticut State University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20699,7 +21257,17 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Eastern Mennonite University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20720,7 +21288,17 @@
         "Conference": "MAC Commonwealth",
         "Division": "NCAA D3",
         "Website": "https://Eastern University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20742,7 +21320,17 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Edgewood College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20762,7 +21350,17 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://Elizabethtown College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20784,7 +21382,18 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://Elmhurst University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -20806,7 +21415,18 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://Elmira College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20827,7 +21447,17 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Elms College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20847,7 +21477,16 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Emerson College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20866,7 +21505,17 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Emmanuel College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20887,7 +21536,16 @@
         "Conference": "University Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Emory University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20908,7 +21566,19 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Endicott College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20930,7 +21600,16 @@
         "Conference": "St. Louis Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Eureka College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20948,7 +21627,18 @@
         "Conference": "MAC Freedom",
         "Division": "NCAA D3",
         "Website": "https://Fairleigh Dickinson University, Florham Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "baseball",
             "basketball",
@@ -20969,7 +21659,17 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://Farmingdale State College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -20989,7 +21689,16 @@
         "Conference": "Massachusetts State Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Fitchburg State University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21008,7 +21717,15 @@
         "Conference": "Massachusetts State Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Framingham State University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21027,7 +21744,17 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Franciscan University of Steubenville Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21047,7 +21774,19 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Franklin & Marshall College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21071,7 +21810,18 @@
         "Conference": "Heartland Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Franklin College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21092,7 +21842,16 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Gallaudet University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Soccer",
+            "Swimming & Diving",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21111,7 +21870,18 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Geneva College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21130,7 +21900,18 @@
         "Conference": "Northwest Conference",
         "Division": "NCAA D3",
         "Website": "https://George Fox University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21151,7 +21932,19 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Gettysburg College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21174,7 +21967,17 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Gordon College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21196,7 +21999,16 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://Goucher College Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21218,7 +22030,16 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Greensboro College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21238,7 +22059,17 @@
         "Conference": "St. Louis Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Greenville University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21257,7 +22088,17 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Grinnell College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21278,7 +22119,19 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Grove City College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21299,7 +22152,17 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Guilford College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21320,7 +22183,18 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Gustavus Adolphus College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21343,7 +22217,17 @@
         "Conference": "Atlantic East Conference",
         "Division": "NCAA D3",
         "Website": "https://Gwynedd Mercy University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21363,7 +22247,19 @@
         "Conference": "New England Small College Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Hamilton College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21389,7 +22285,20 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Hamline University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21411,7 +22320,17 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Hampden\u2013Sydney College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "none"
         ]
@@ -21424,7 +22343,17 @@
         "Conference": "Heartland Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Hanover College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21445,7 +22374,16 @@
         "Conference": "American Southwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Hardin\u2013Simmons University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21464,7 +22402,16 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://University of Hartford Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21482,7 +22429,19 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://Hartwick College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21503,7 +22462,16 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Haverford College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Fencing",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21523,7 +22491,18 @@
         "Conference": "Ohio Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Heidelberg University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "etc. Confirm at haverfordathletics.com if needed."
         ]
@@ -21536,7 +22515,18 @@
         "Conference": "Southern Athletic Association\n(Southern Collegiate Athletic Conference in 2025)",
         "Division": "NCAA D3",
         "Website": "https://Hendrix College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21556,7 +22546,16 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Hilbert College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21579,7 +22578,18 @@
         "Conference": "North Coast Athletic Conference\n(Presidents' Athletic Conference in 2025)",
         "Division": "NCAA D3",
         "Website": "https://Hiram College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -21598,7 +22608,20 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Hobart College Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21618,7 +22641,10 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Hollins University Athletics",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "none"
         ]
@@ -21631,7 +22657,17 @@
         "Conference": "MAC Commonwealth",
         "Division": "NCAA D3",
         "Website": "https://Hood College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": []
     },
     {
@@ -21642,7 +22678,19 @@
         "Conference": "Michigan Intercollegiate Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Hope College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21663,7 +22711,16 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://Houghton University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21686,7 +22743,16 @@
         "Conference": "American Southwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Howard Payne University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21708,7 +22774,15 @@
         "Conference": "City University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Hunter College Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21729,7 +22803,17 @@
         "Conference": "Collegiate Conference of the South",
         "Division": "NCAA D3",
         "Website": "https://Huntingdon College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21748,7 +22832,18 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://Husson University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21769,7 +22864,18 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Illinois College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21788,7 +22894,17 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Illinois Institute of Technology Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21809,7 +22925,19 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://Illinois Wesleyan University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21830,7 +22958,16 @@
         "Conference": "Atlantic East Conference",
         "Division": "NCAA D3",
         "Website": "https://Immaculata University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21850,7 +22987,19 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Ithaca College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21871,7 +23020,19 @@
         "Conference": "Ohio Athletic Conference\n(North Coast Athletic Conference in 2025)",
         "Division": "NCAA D3",
         "Website": "https://John Carroll University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21894,7 +23055,15 @@
         "Conference": "City University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://John Jay College of Criminal Justice Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21920,7 +23089,19 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Johns Hopkins University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Fencing",
+            "Football",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21942,7 +23123,17 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Johnson & Wales University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21961,7 +23152,18 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://Juniata College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -21985,7 +23187,18 @@
         "Conference": "Michigan Intercollegiate Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Kalamazoo College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22006,7 +23219,19 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Kean University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22028,7 +23253,16 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://Keene State College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22049,7 +23283,18 @@
         "Conference": "North Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://KeNew Yorkon College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22070,7 +23315,15 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://Keuka College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22091,7 +23344,16 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Keystone College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22114,7 +23376,18 @@
         "Conference": "MAC Freedom",
         "Division": "NCAA D3",
         "Website": "https://King's College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -22134,7 +23407,16 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Knox College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22154,7 +23436,16 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://La Roche University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22177,7 +23468,18 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of La Verne",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22197,7 +23499,17 @@
         "Conference": "Collegiate Conference of the South",
         "Division": "NCAA D3",
         "Website": "https://LaGrange College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22215,7 +23527,19 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Lake Forest College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22237,7 +23561,18 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Lakeland University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22257,7 +23592,16 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Lancaster Bible College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22280,7 +23624,16 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Lasell University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22300,7 +23653,18 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Lawrence University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22320,7 +23684,19 @@
         "Conference": "MAC Freedom",
         "Division": "NCAA D3",
         "Website": "https://Lebanon Valley College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22339,7 +23715,15 @@
         "Conference": "City University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Lehman College",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22362,7 +23746,17 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://Lesley University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22385,7 +23779,16 @@
         "Conference": "American Southwest Conference\n(Southern Collegiate Athletic Conference in 2025)",
         "Division": "NCAA D3",
         "Website": "https://LeTourneau University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22405,7 +23808,18 @@
         "Conference": "Northwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Lewis & Clark College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22424,7 +23838,18 @@
         "Conference": "Northwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Linfield University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22444,7 +23869,18 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://Loras College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22466,7 +23902,19 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://Luther College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22487,7 +23935,19 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://Lycoming College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22508,7 +23968,18 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Lynchburg",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22530,7 +24001,18 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Macalester College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22551,7 +24033,15 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Maine at Farmington",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22569,7 +24059,16 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://Maine Maritime Academy",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22588,7 +24087,14 @@
         "Conference": "North Atlantic Conference[4]",
         "Division": "NCAA D3",
         "Website": "https://University of Maine at Presque Isle",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22608,7 +24114,18 @@
         "Conference": "Heartland Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Manchester University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22628,7 +24145,18 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://Manhattanville University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22650,7 +24178,17 @@
         "Conference": "Independent",
         "Division": "NCAA D3",
         "Website": "https://Maranatha Baptist University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22666,7 +24204,18 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Marian University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -22688,7 +24237,19 @@
         "Conference": "Ohio Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Marietta College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22709,7 +24270,16 @@
         "Conference": "Upper Midwest Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Martin Luther College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22729,7 +24299,10 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Mary Baldwin University",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22748,7 +24321,18 @@
         "Conference": "American Southwest Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Mary Hardin\u2013Baylor",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "beach volleyball",
@@ -22769,7 +24353,17 @@
         "Conference": "Coast to Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Mary Washington",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22792,7 +24386,18 @@
         "Conference": "Atlantic East Conference",
         "Division": "NCAA D3",
         "Website": "https://Marymount University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22813,7 +24418,17 @@
         "Conference": "Collegiate Conference of the South\n(Southern Athletic Association in 2026)",
         "Division": "NCAA D3",
         "Website": "https://Maryville College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22833,7 +24448,17 @@
         "Conference": "Atlantic East Conference",
         "Division": "NCAA D3",
         "Website": "https://Marywood University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22855,7 +24480,17 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Massachusetts Boston",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22876,7 +24511,16 @@
         "Conference": "Massachusetts State Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Massachusetts College of Liberal Arts",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22894,7 +24538,18 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Massachusetts Dartmouth",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22916,7 +24571,22 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Massachusetts Institute of Technology",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Fencing",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22941,7 +24611,15 @@
         "Conference": "Massachusetts State Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Massachusetts Maritime Academy",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Sailing",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22960,7 +24638,13 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://McDaniel College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -22983,7 +24667,17 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://McMurry University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23002,7 +24696,15 @@
         "Conference": "City University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Medgar Evers College",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23020,7 +24722,10 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Meredith College",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23040,7 +24745,18 @@
         "Conference": "MAC Commonwealth",
         "Division": "NCAA D3",
         "Website": "https://Messiah University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23062,7 +24778,18 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Methodist University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23083,7 +24810,20 @@
         "Conference": "New England Small College Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Middlebury College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23108,7 +24848,19 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://Millikin University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23129,7 +24881,17 @@
         "Conference": "Southern Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Millsaps College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23149,7 +24911,17 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Milwaukee School of Engineering",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -23173,7 +24945,16 @@
         "Conference": "Upper Midwest Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Minnesota Morris",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23193,7 +24974,18 @@
         "Conference": "MAC Freedom",
         "Division": "NCAA D3",
         "Website": "https://Misericordia University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23216,7 +25008,10 @@
         "Conference": "St. Louis Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Mississippi University for Women",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23236,7 +25031,16 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Mitchell College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23254,7 +25058,19 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Monmouth College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23276,7 +25092,18 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Montclair State University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23298,7 +25125,18 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://Moravian University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23319,7 +25157,17 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Mount Aloysius College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -23340,7 +25188,10 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Mount Holyoke College",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23365,7 +25216,18 @@
         "Conference": "Heartland Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Mount St. Joseph University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23387,7 +25249,18 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://Mount Saint Mary College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23408,7 +25281,18 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Mount Saint Vincent",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23428,7 +25312,19 @@
         "Conference": "Ohio Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Mount Union",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23450,7 +25346,18 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Muhlenberg College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23472,7 +25379,18 @@
         "Conference": "Ohio Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Muskingum University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -23496,7 +25414,19 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://Nazareth University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23519,7 +25449,19 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://Nebraska Wesleyan University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23539,7 +25481,18 @@
         "Conference": "Atlantic East Conference",
         "Division": "NCAA D3",
         "Website": "https://Neumann University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23562,7 +25515,19 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://New England College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23583,7 +25548,20 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://University of New England",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23607,7 +25585,19 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://The College of New Jersey",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23628,7 +25618,16 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://New Jersey City University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -23648,7 +25647,19 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Brockport",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23671,7 +25682,16 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Canton",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23691,7 +25711,18 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Cobleskill",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23710,7 +25741,20 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Cortland",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23735,7 +25779,18 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Delhi",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23755,7 +25810,20 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Fredonia",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23776,7 +25844,18 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Geneseo",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23799,7 +25878,17 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://State University of New York Maritime College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23819,7 +25908,19 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://State University of New York at Morrisville",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23839,7 +25940,17 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://SUNew York Polytechnic Institute Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23858,7 +25969,18 @@
         "Conference": "State University of New York Athletic Conference\n(New Jersey Athletic Conference in 2026)",
         "Division": "NCAA D3",
         "Website": "https://SUNew York New Paltz Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23880,7 +26002,17 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://SUNew York Old Westbury Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23897,7 +26029,19 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://SUNew York Oneonta Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23918,7 +26062,18 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://SUNew York Oswego Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23942,7 +26097,18 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://SUNew York Plattsburgh Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23962,7 +26128,18 @@
         "Conference": "State University of New York Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://SUNew York Potsdam Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -23983,7 +26160,18 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://SUNew York Purchase Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24003,7 +26191,19 @@
         "Conference": "University Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://New York University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Fencing",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24025,7 +26225,19 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Nichols College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24048,7 +26260,17 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://North Carolina Wesleyan Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24068,7 +26290,19 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://North Central College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24090,7 +26324,15 @@
         "Conference": "Upper Midwest Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://North Central University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24110,7 +26352,18 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://North Park University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24130,7 +26383,16 @@
         "Conference": "Upper Midwest Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Northland College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24151,7 +26413,17 @@
         "Conference": "Upper Midwest Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Northwestern - St. Paul Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24172,7 +26444,19 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Norwich University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rugby",
+            "Soccer",
+            "Swimming & Diving",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24194,7 +26478,10 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Notre Dame of Maryland University Athletics",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "badminton",
             "basketball",
@@ -24216,7 +26503,18 @@
         "Conference": "North Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Oberlin College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24238,7 +26536,19 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Occidental College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24261,7 +26571,17 @@
         "Conference": "Southern Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Oglethorpe University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24281,7 +26601,19 @@
         "Conference": "Ohio Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Ohio Northern University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24303,7 +26635,19 @@
         "Conference": "North Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Ohio Wesleyan University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24326,7 +26670,18 @@
         "Conference": "Michigan Intercollegiate Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://University of Olivet Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24348,7 +26703,19 @@
         "Conference": "Ohio Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Otterbein University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24369,7 +26736,15 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of the Ozarks Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24388,7 +26763,20 @@
         "Conference": "Northwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Pacific Lutheran University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24410,7 +26798,19 @@
         "Conference": "Northwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Pacific University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24433,7 +26833,16 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Pennsylvania College of Technology Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24452,7 +26861,15 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Penn State Abington Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24472,7 +26889,16 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Penn State Altoona Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -24493,7 +26919,15 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Penn State Berks Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24512,7 +26946,17 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Penn State Behrend Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -24534,7 +26978,15 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Penn State Brandywine Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24552,7 +27004,15 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Penn State Harrisburg Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24572,7 +27032,17 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Pfeiffer University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24592,7 +27062,17 @@
         "Conference": "Collegiate Conference of the South",
         "Division": "NCAA D3",
         "Website": "https://Piedmont University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24613,7 +27093,16 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Pittsburgh at Bradford Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -24634,7 +27123,15 @@
         "Conference": "AllegheNew York Mountain Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Pittsburgh at Greensburg Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -24654,7 +27151,19 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://Plymouth State University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24676,7 +27185,19 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Pomona-Pitzer Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24699,7 +27220,14 @@
         "Conference": "Atlantic East Conference",
         "Division": "NCAA D3",
         "Website": "https://Pratt Institute Athletics",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24717,7 +27245,17 @@
         "Conference": "St. Louis Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Principia College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24737,7 +27275,19 @@
         "Conference": "Northwest Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Puget Sound Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24760,7 +27310,17 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Ramapo College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24781,7 +27341,16 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Randolph College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24802,7 +27371,18 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Randolph-Macon College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24825,7 +27405,19 @@
         "Conference": "Southern California Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Redlands Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Water Polo"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24848,7 +27440,17 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Regis College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24870,7 +27472,21 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Rensselaer Polytechnic Institute Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24892,7 +27508,18 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://Rhode Island College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24913,7 +27540,19 @@
         "Conference": "Southern Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Rhodes College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24936,7 +27575,19 @@
         "Conference": "Midwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Ripon College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24955,7 +27606,17 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Rivier University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24973,7 +27634,17 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Roanoke College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -24996,7 +27667,21 @@
         "Conference": "University Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://University of Rochester Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25020,7 +27705,21 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Rochester Institute of Technology Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "crew",
@@ -25043,7 +27742,18 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://Rockford University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25061,7 +27771,19 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Roger Williams University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25085,7 +27807,19 @@
         "Conference": "Heartland Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Rose-Hulman Institute of Technology Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25106,7 +27840,16 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Rosemont College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "golf",
@@ -25124,7 +27867,19 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Rowan University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25145,7 +27900,16 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Rutgers University\u2013Camden Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25165,7 +27929,17 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Rutgers University\u2013Newark Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25183,7 +27957,17 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://Russell Sage College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25204,7 +27988,10 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://College of Saint Benedict Athletics",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25226,7 +28013,10 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://St. Catherine University Athletics",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25248,7 +28038,17 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://Saint Elizabeth University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -25266,7 +28066,19 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://St. John Fisher University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25288,7 +28100,20 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Saint John's University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "none"
         ]
@@ -25301,7 +28126,16 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Saint Joseph Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25321,7 +28155,17 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://St. Joseph's University (Brooklyn) Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25338,7 +28182,16 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://St. Joseph's University (Long Island) Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25358,7 +28211,16 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Saint Joseph's College of Maine Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25379,7 +28241,22 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://St. Lawrence University Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25404,7 +28281,10 @@
         "Conference": "Michigan Intercollegiate Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Saint Mary's College Athletics",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25424,7 +28304,17 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://St. Mary's College of Maryland Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25445,7 +28335,19 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Saint Mary's University of Minnesota Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25466,7 +28368,20 @@
         "Conference": "Northern Athletics Collegiate Conference",
         "Division": "NCAA D3",
         "Website": "https://St. Norbert College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25488,7 +28403,20 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://St. Olaf College Athletics",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25510,7 +28438,20 @@
         "Conference": "Minnesota Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://The College of St. Scholastica",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25532,7 +28473,19 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://University of St. Thomas (Texas)",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "golf",
@@ -25550,7 +28503,18 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Saint Vincent College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -25572,7 +28536,10 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Salem College",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25590,7 +28557,18 @@
         "Conference": "Massachusetts State Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Salem State University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25610,7 +28588,19 @@
         "Conference": "Coast to Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Salisbury University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25632,7 +28622,19 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Salve Regina University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25654,7 +28656,15 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://Sarah Lawrence College",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25672,7 +28682,16 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Schreiner University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25692,7 +28711,18 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Scranton",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25715,7 +28745,19 @@
         "Conference": "Southern Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://University of the South (Sewanee)",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25738,7 +28780,18 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Shenandoah University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25760,7 +28813,10 @@
         "Conference": "Great Northeast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Simmons University",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25780,7 +28836,19 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://Simpson College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25800,7 +28868,19 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Skidmore College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25822,7 +28902,10 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Smith College",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25846,7 +28929,20 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Southern Maine",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25867,7 +28963,19 @@
         "Conference": "USA South Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Southern Virginia University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25889,7 +28997,18 @@
         "Conference": "Southern Collegiate Athletic Conference\n(Southern Athletic Association in 2025)",
         "Division": "NCAA D3",
         "Website": "https://Southwestern University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25910,7 +29029,17 @@
         "Conference": "St. Louis Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Spalding University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25929,7 +29058,21 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Springfield College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Gymnastics",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25951,7 +29094,20 @@
         "Conference": "MAC Freedom",
         "Division": "NCAA D3",
         "Website": "https://Stevens Institute of Technology",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Fencing",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -25974,7 +29130,20 @@
         "Conference": "MAC Commonwealth",
         "Division": "NCAA D3",
         "Website": "https://Stevenson University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "beach volleyball",
@@ -25999,7 +29168,18 @@
         "Conference": "New Jersey Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Stockton University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26020,7 +29200,18 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Suffolk University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26039,7 +29230,19 @@
         "Conference": "Landmark Conference",
         "Division": "NCAA D3",
         "Website": "https://Susquehanna University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26062,7 +29265,19 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Swarthmore College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26083,7 +29298,10 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Sweet Briar College",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "cross country",
             "equestrian",
@@ -26102,7 +29320,17 @@
         "Conference": "Southern Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Texas Lutheran University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26122,7 +29350,18 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Thiel College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26141,7 +29380,17 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://Thomas College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26160,7 +29409,18 @@
         "Conference": "Heartland Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Transylvania University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26183,7 +29443,19 @@
         "Conference": "Michigan Intercollegiate Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Trine University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "bowling",
@@ -26206,7 +29478,22 @@
         "Conference": "New England Small College Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Trinity College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26232,7 +29519,18 @@
         "Conference": "Southern Collegiate Athletic Conference\n(Southern Athletic Association in 2025)",
         "Division": "NCAA D3",
         "Website": "https://Trinity University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26253,7 +29551,10 @@
         "Conference": "Independent",
         "Division": "NCAA D3",
         "Website": "https://Trinity Washington University",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "soccer",
@@ -26270,7 +29571,21 @@
         "Conference": "New England Small College Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Tufts University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26296,7 +29611,21 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Union College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "crew",
@@ -26320,7 +29649,19 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://United States Coast Guard Academy",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26341,7 +29682,19 @@
         "Conference": "Skyline Conference",
         "Division": "NCAA D3",
         "Website": "https://United States Merchant Marine Academy",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26360,7 +29713,19 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Ursinus College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26383,7 +29748,19 @@
         "Conference": "Empire 8",
         "Division": "NCAA D3",
         "Website": "https://Utica University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26406,7 +29783,16 @@
         "Conference": "United East Conference",
         "Division": "NCAA D3",
         "Website": "https://University of Valley Forge",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26423,7 +29809,21 @@
         "Conference": "Liberty League",
         "Division": "NCAA D3",
         "Website": "https://Vassar College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Fencing",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26447,7 +29847,20 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://Vermont State University\u2013Castleton",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26469,7 +29882,17 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://Vermont State University\u2013Johnson",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26488,7 +29911,17 @@
         "Conference": "North Atlantic Conference",
         "Division": "NCAA D3",
         "Website": "https://Vermont State University\u2013Lyndon",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26507,7 +29940,17 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Virginia Wesleyan University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26529,7 +29972,19 @@
         "Conference": "North Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Wabash College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "none"
         ]
@@ -26542,7 +29997,14 @@
         "Conference": "Coast to Coast Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Warren Wilson College",
-        "Men": [],
+        "Men": [
+            "Basketball",
+            "Cross Country",
+            "Soccer",
+            "Swimming",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26558,7 +30020,19 @@
         "Conference": "American Rivers Conference[2]",
         "Division": "NCAA D3",
         "Website": "https://Wartburg College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26578,7 +30052,19 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Washington & Jefferson College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26600,7 +30086,19 @@
         "Conference": "Old Dominion Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Washington and Lee University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26624,7 +30122,18 @@
         "Conference": "Centennial Conference",
         "Division": "NCAA D3",
         "Website": "https://Washington College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26646,7 +30155,18 @@
         "Conference": "University Athletic Association",
         "Division": "NCAA D3",
         "Website": "https://Washington University in St. Louis",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Soccer",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26667,7 +30187,19 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Waynesburg University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26687,7 +30219,18 @@
         "Conference": "St. Louis Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Webster University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26707,7 +30250,10 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Wellesley College",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26730,7 +30276,18 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Wentworth Institute of Technology",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Volleyball"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26747,7 +30304,10 @@
         "Conference": "Collegiate Conference of the South",
         "Division": "NCAA D3",
         "Website": "https://Wesleyan College",
-        "Men": [],
+        "Men": [
+            "Women's college",
+            "no men's sports"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26765,7 +30325,22 @@
         "Conference": "New England Small College Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Wesleyan University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Squash",
+            "Swimming & Diving",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "crew",
@@ -26790,7 +30365,19 @@
         "Conference": "Little East Conference",
         "Division": "NCAA D3",
         "Website": "https://Western Connecticut State University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26811,7 +30398,20 @@
         "Conference": "Conference of New England",
         "Division": "NCAA D3",
         "Website": "https://Western New England University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26833,7 +30433,17 @@
         "Conference": "Massachusetts State Collegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Westfield State University",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Ice Hockey",
+            "Lacrosse",
+            "Soccer",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26853,7 +30463,19 @@
         "Conference": "St. Louis Intercollegiate Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Westminster College (MO)",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26872,7 +30494,18 @@
         "Conference": "Presidents' Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Westminster College (PA)",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26894,7 +30527,19 @@
         "Conference": "College Conference of Illinois and Wisconsin",
         "Division": "NCAA D3",
         "Website": "https://Wheaton College (IL)",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26915,7 +30560,19 @@
         "Conference": "New England Women's and Men's Athletic Conference",
         "Division": "NCAA D3",
         "Website": "https://Wheaton College (MA)",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Football",
+            "Golf",
+            "Lacrosse",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
@@ -26938,7 +30595,19 @@
         "Conference": "Northwest Conference",
         "Division": "NCAA D3",
         "Website": "https://Whitman College",
-        "Men": [],
+        "Men": [
+            "Baseball",
+            "Basketball",
+            "Cross Country",
+            "Golf",
+            "Lacrosse",
+            "Rowing",
+            "Soccer",
+            "Swimming",
+            "Tennis",
+            "Track & Field (Indoor/Outdoor)",
+            "Wrestling"
+        ],
         "Women": [
             "basketball",
             "cross country",
